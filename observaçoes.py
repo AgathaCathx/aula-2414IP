@@ -16,3 +16,9 @@
 #uppr= almentativo
 # != =perguntar se e diferente
 # == Significa igual
+#import random = feramentas que geram valores aleatorios
+#def = função
+#return = devolver
+#is not None = verifica se a variavel nao e igual a None
+#None = valor especial em python
+#
